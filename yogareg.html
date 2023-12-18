@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Enrollment Form</title>
+  <link href="yogareg.css" rel="stylesheet">
+</head>
+<body>
+  <div class="container">
+    <h2>Enrollment Form</h2>
+    <form method="post" id="enrollmentForm" action="yogareg.php">
+      Enter Name*: <input type="text" name="nam" required><br><br>
+      Enter Mobile Number*: <input type="text" name="mn" required><br><br>
+      Enter Address*: <input type="text" name="add" required><br><br>
+      <label for="age">Age*:</label>
+      <input type="text" id="age" name="ag" min="18" max="65" required>
+      <label for="batch">Select Batch*:</label>
+      <select id="batch" name="batch" type="text" required>
+        <option value="6-7AM">6-7AM</option>
+        <option value="7-8AM">7-8AM</option>
+        <option value="8-9AM">8-9AM</option>
+        <option value="5-6PM">5-6PM</option>
+      </select>
+      <h4>**MAKING PAYMENT IS COMPULSORY FOR CONFIRMING THE REGISTRATION**</h4>
+      <input type="submit" value="ENROLL">
+    </form>
+    <br><br>
+    <button type="submit"><a href="payment.html">MAKE PAYMENT</a></button>
+  </div>
+</body>
+</html>
