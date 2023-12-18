@@ -15,3 +15,10 @@ same month they need to be in the same batch.
 I have used HTML,CSS AND PHP For implementing the problem statement
 
 Thank You !!!
+
+<h1>OUTPUT SCREENS AND DATABASE DESIGN</h1>
+
+![Screenshot 2023-12-18 154049](https://github.com/AmolMhamane2/FlexMoney_Assignment/assets/137078957/cf5f8d79-8fe2-42a0-8b10-ea1cc80cfab5)
+![Screenshot 2023-12-18 153816](https://github.com/AmolMhamane2/FlexMoney_Assignment/assets/137078957/b8964cdf-d474-4296-9aa6-e1267913ecc0)
+![Screenshot 2023-12-18 153805](https://github.com/AmolMhamane2/FlexMoney_Assignment/assets/137078957/9ba0f54d-4665-4c33-846d-60158e7deed3)
+![Screenshot 2023-12-18 154318](https://github.com/AmolMhamane2/FlexMoney_Assignment/assets/137078957/f1b14165-b58e-4e16-94a3-50db7d2e6f64)
